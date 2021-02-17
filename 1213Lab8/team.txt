@@ -1,0 +1,22 @@
+Hornet
+Charlotte
+Dwayne Bacon	24	7	GUARD
+Nicholas Batum	24	5	FORWARD
+Bismac Biyombo	26	8	CENTER	
+Miles Bridges	21	0	FORWARD	
+Joe Chealey	23	31	GUARD
+Robert Franks	22	22	FORWARD
+Devonte' Graham	24	4	GUARD
+Willy Hernangomez	24	9	CENTER
+Ahmed Hill	24	20	GUARD
+Michael Kidd-Gilchrist	26	14	FORWARD
+Caleb Martin	24	10	FORWARD
+Cody Martin	24	11	FORWARD	
+Malik Monk	21	1	GUARD
+Josh Perkins	24	55	FORWARD
+Terry Rozier	25	3	GUARD
+Kobi Simmons	22	23	GUARD
+P.J. Washington	21	25	FORWARD
+Thomas Welsh	23	54	CENTER
+Marvin Williams	32	2	FORWARD
+Cody Zeller	26	40	FORWARD
